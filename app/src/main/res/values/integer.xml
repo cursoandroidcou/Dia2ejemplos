@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_speed">75</integer>
+    <integer name="min_speed">25</integer>
+    <integer-array name="valores">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+</resources>
